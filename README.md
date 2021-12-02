@@ -2,6 +2,7 @@
 
 # requirments to run
 filetype
+pillow
 
 
 # building
